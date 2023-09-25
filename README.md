@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 _斜体吗_
 **粗体**
 ~~***有斜又粗***~~
-<u>123</u>
+
 *1
 *2
 >1
