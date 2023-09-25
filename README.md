@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 真的  玩呢
 *斜体*
 _斜体吗_
-**粗鲁**
+**粗体**
 ~~***有斜又粗***~~
 <u>123</u>
 *1
