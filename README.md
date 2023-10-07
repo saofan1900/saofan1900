@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -------
 真的  玩呢  
 *斜体*
-_斜体吗_
+_斜体_
 **粗体**
 ~~***有斜又粗***~~
 
